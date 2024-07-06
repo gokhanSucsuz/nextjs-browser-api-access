@@ -10,6 +10,7 @@ export default function Home() {
 			<Link href="/storage">Storage</Link>
 			<Link href="/audio">Audio Page</Link>
 			<Link href="/serviceworker">Serviceworker Page</Link>
+			<Link href="/indexdb">Indexed DB Page</Link>
 		</main>
 	);
 }
