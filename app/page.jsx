@@ -9,6 +9,7 @@ export default function Home() {
 			<Link href="/geolocation">Get Location</Link>
 			<Link href="/storage">Storage</Link>
 			<Link href="/audio">Audio Page</Link>
+			<Link href="/serviceworker">Serviceworker Page</Link>
 		</main>
 	);
 }
